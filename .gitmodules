@@ -1,3 +1,0 @@
-[submodule "in_aux"]
-	path = in_aux
-	url = git@github.com:kgadek/git-breaking-aux.git
